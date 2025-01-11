@@ -6,7 +6,7 @@
 
 🎮Eu amo jogos, e sonho em trabalhar com o desenvolvimenmto destes. 
 
-🖥️Experiência em Python
+🖥️Experiência com Python
   
 💁‍♀️ - Curiosidades sobre mim: além de gostar de tecnologia, gosto de ler livros
    - Meu jogo favorito é The Last Of Us
