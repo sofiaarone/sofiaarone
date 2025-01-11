@@ -14,4 +14,4 @@
 -  Meu jogo favorito é The Last Of Us
 -  Eu amo o Snoopy ♡
 
-📌Confira aqui o perfil da minha buddy, Lika: 
+📌Confira aqui o perfil da minha buddy, Lika: https://github.com/julia-lika/julia-lika 
