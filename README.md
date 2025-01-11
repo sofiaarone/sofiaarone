@@ -12,3 +12,5 @@
 - Tenho 18 anos
 - Além de gostar de tecnologia, gosto de ler livros
 -  Meu jogo favorito é The Last Of Us
+
+- Confira aqui o perfil da minha buddy, Lika: 
